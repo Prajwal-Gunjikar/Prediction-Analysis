@@ -8,4 +8,6 @@ Now company wants to understand the factors affecting the demand for these share
 
 ## Objective
 
-Using Machine Learning model specifically **multiple linear regression model**
+Using Machine Learning model specifically multiple linear regression model we have to predict the demand for shared bikes by identifying.
+- Which variables are significant in predicting the demand for shared bikes
+- How well those variables describe the bike demands
